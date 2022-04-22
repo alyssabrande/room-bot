@@ -2,7 +2,7 @@ let Contact = 0
 basic.showLeds(`
     . . # . .
     . # . # .
-    # . . . #
+    # . . # #
     . # . # .
     . . # . .
     `)
